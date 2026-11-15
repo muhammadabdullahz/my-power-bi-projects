@@ -4,35 +4,7 @@ A collection of four interactive business intelligence Power BI dashboards devel
 
 ## Projects
 
-### 1. Retail Sales Dashboard
-
-![Retail Sales Dashboard](power-bi-projects/retail-sales.png)
-
-Analyzes retail sales performance across departments, store types, geographic locations and time periods.
-
-**Key Features:**
-- KPI cards displaying total sales, year-to-date (YTD) sales and gross margin.
-- Clustered column charts comparing sales across departments and store types.
-- Time-series line charts tracking sales trends across multiple years.
-- Ribbon-style visualization comparing the contribution of store types across top-performing locations.
-- Geographic bubble map displaying sales distribution by store location.
-- Interactive department filters for segmenting sales performance.
-
-### 2. Retail Cost & Target Dashboard
-
-![Retail Cost and Target Dashboard](power-bi-projects/retail-cost-target.png)
-
-Evaluates retail operating costs, sales performance and deviations from predefined targets across store locations.
-
-**Key Features:**
-- KPI cards tracking sales, total costs, rent, wages and sales performance against targets.
-- Stacked column charts comparing wage and rental costs across locations.
-- Scatter plot analyzing the relationship between total costs and deviations from target, with a reference line highlighting the target threshold.
-- Conditional formatting in tabular reports, including data bars, color-coded performance indicators and background color scales.
-- Store-level comparisons of sales, payroll percentages and target variances.
-- Interactive date-range slicer for filtering performance across selected periods.
-
-### 3. NASDAQ vs. NYSE Trading Volume & Securities Dashboard
+### 1. NASDAQ vs. NYSE Trading Volume & Securities Dashboard
 
 ![NASDAQ vs NYSE Trading Volume Dashboard](power-bi-projects/nasdaq-nyse-securities.png)
 
@@ -46,7 +18,7 @@ Compares trading activity and securities distribution across the NASDAQ and New 
 - Exchange-level filtering for comparing trading activity and securities.
 - Date-based analysis of historical trading volume trends.
 
-### 4. Equity Portfolio Performance & Volatility Dashboard
+### 2. Equity Portfolio Performance & Volatility Dashboard
 
 ![Equity Portfolio Performance and Volatility Dashboard](power-bi-projects/equity-volatility.png)
 
@@ -59,6 +31,34 @@ Examines historical equity price movements, price volatility and portfolio compo
 - Tabular portfolio breakdown displaying current closing prices, portfolio weights and individual portfolio values.
 - Conditional formatting and data bars for comparing portfolio weights and company-level portfolio values.
 - Interactive date-range slicer for examining portfolio performance across selected periods.
+
+### 3. Retail Sales Dashboard
+
+![Retail Sales Dashboard](power-bi-projects/retail-sales.png)
+
+Analyzes retail sales performance across departments, store types, geographic locations and time periods.
+
+**Key Features:**
+- KPI cards displaying total sales, year-to-date (YTD) sales and gross margin.
+- Clustered column charts comparing sales across departments and store types.
+- Time-series line charts tracking sales trends across multiple years.
+- Ribbon-style visualization comparing the contribution of store types across top-performing locations.
+- Geographic bubble map displaying sales distribution by store location.
+- Interactive department filters for segmenting sales performance.
+
+### 4. Retail Cost & Target Dashboard
+
+![Retail Cost and Target Dashboard](power-bi-projects/retail-cost-target.png)
+
+Evaluates retail operating costs, sales performance and deviations from predefined targets across store locations.
+
+**Key Features:**
+- KPI cards tracking sales, total costs, rent, wages and sales performance against targets.
+- Stacked column charts comparing wage and rental costs across locations.
+- Scatter plot analyzing the relationship between total costs and deviations from target, with a reference line highlighting the target threshold.
+- Conditional formatting in tabular reports, including data bars, color-coded performance indicators and background color scales.
+- Store-level comparisons of sales, payroll percentages and target variances.
+- Interactive date-range slicer for filtering performance across selected periods.
 
 ## Technical Skills & Methods
 
